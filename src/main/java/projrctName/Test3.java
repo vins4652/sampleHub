@@ -6,5 +6,7 @@ public class Test3 {
 		System.out.println("I am a bad boy");
 		//after adding the test case at the completion 
 		//just push the new code to the git by creating new branch
+		
+		System.out.println("bi");
 	}
 }
